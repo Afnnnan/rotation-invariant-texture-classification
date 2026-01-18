@@ -12,7 +12,7 @@ This project implements a robust texture classification system that is invariant
 
 **Key Achievement:** 100% classification accuracy on 13 Brodatz textures across 7 rotation angles (0°, 30°, 60°, 90°, 120°, 150°, 200°).
 
-📄 **For detailed methodology and complete analysis, please refer to:**
+**For detailed methodology and complete analysis, please refer to:**
 - [**Implementation Code**](22b2505_finalProject_CS663.py) - Complete source code
 - [**Project Presentation**](22b2505_finalProject_CS663.pdf) - Detailed slides with methodology and references
 
@@ -57,7 +57,7 @@ This project implements a robust texture classification system that is invariant
 
 
 
-## 📁 Dataset
+## Dataset
 
 ### Brodatz Rotated Textures
 
@@ -86,7 +86,7 @@ rotate/
 - **Patch extraction:** 16×16 subimages from 512×512 images
 - **Cross-validation:** Train on 0°, 30°, 60°, 90° separately
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 rotation-invariant-texture-classification/
@@ -109,7 +109,7 @@ rotation-invariant-texture-classification/
     └── experiment_summary.txt
 ```
 
-## 🔧 Implementation Details
+## Implementation Details
 
 ### Key Optimizations
 
@@ -142,7 +142,7 @@ rotation-invariant-texture-classification/
 
 
 
-## 📚 References
+## References
 
 1. T. Ojala, M. Pietikäinen and T. Mäenpää, "Multiresolution Gray-scale and Rotation Invariant Texture Classification with Local Binary Patterns," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, no. 7, pp. 971-987, 2002. [IEEE Xplore](https://ieeexplore.ieee.org/document/1017623)
 
