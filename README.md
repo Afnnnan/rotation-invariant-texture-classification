@@ -2,7 +2,7 @@
 
 A Python implementation of rotation-invariant texture classification using Local Binary Patterns (LBP) and its variants, achieving **100% accuracy** on the Brodatz rotated texture dataset.
 
-![Bark Texture Rotations](bark_rotations.png)
+![Bark Texture Rotations](input_textures.png)
 *Example: Bark texture at different rotation angles from the Brodatz dataset*
 
 
